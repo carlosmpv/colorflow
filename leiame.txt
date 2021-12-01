@@ -1,1 +1,0 @@
-Para compilar, precisa ter instalado a linguagem Go.
