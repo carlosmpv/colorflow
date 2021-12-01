@@ -11,6 +11,12 @@ Com a tela do notebook completamente branca, e o filtro posicionado na frente da
 
 Foram tiradas fotos de materiais plásticos que apresentassem o efeito isocromático quando entre a tela e o celular, no caso um copo (por dentro), um pote (por dentro) e uma tampa de pote.
 
+### Fotos do procedimento
+
+![Pedaço de filtro](./experimento/pedaco_de_filtro.jpeg)
+![Visão geral](./experimento/setup_ft_1.jpeg)
+![Visão por trás da câmera](./experimento/setup_ft_2.jpeg)
+
 # Como compilar?
 Para compilar, precisa ter instalado a linguagem Go.
 
