@@ -1,3 +1,7 @@
+### Alunos
+Carlos Manuel de Jesus Puentes Valdes **11812591**
+Gabriele Silva de Freitas **11236251**
+
 # O que esse programa faz?
 A partir de uma região da imagem, vão ser buscadas regiões vizinhas de cor média mais próxima
 de forma a tentar destacar regiões de cor semelhante.
