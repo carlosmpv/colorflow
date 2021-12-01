@@ -38,3 +38,7 @@ Execute o binário resultando passando como argumentos em ordem:
 ```
 ./main ./images/copo_cortado.jpeg 423 435 299 313 100
 ```
+
+**Resultado:**
+
+![Resultado da entrada a cima](./out.jpeg)
